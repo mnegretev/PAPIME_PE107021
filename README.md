@@ -1,5 +1,12 @@
 # PAPIME_PE107021
-Entregables del proyecto PAPIME PE107021
+En este repositorio se encuentran los entregables del reporte final del proyecto PAPIME PE107021 "Propuesta de prácticas y material didáctico para las materias de la academia de sistemas embebidos"
+
+Los entregables contenidos aquí son los siguientes:
+* Tesis de licenciatura (avances)
+* Hardware - dispositivos embebidos para la realización de prácticas
+* Página Web - plantilla que será publicada en la página de la DIE
+* Prácticas
+* Instrumentos de evaluación
 
 ### Colaboradores:
 
