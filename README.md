@@ -3,10 +3,9 @@ En este repositorio se encuentran los entregables del reporte final del proyecto
 
 Los entregables contenidos aquí son los siguientes:
 * Tesis de licenciatura (avances)
-* Hardware - dispositivos embebidos para la realización de prácticas
 * Página Web - plantilla que será publicada en la página de la DIE
-* Prácticas
-* Instrumentos de evaluación
+* Prácticas - documentos en PDF
+* Media - fotos y otros archivos relacionados con los productos del proyecto
 
 ### Colaboradores:
 
